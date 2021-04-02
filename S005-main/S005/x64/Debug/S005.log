@@ -1,0 +1,88 @@
+﻿  S005.cpp
+C:\Users\testt\OneDrive\Рабочий стол\S005-main\S005\S005.cpp(18,5): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+C:\Users\testt\OneDrive\Рабочий стол\S005-main\S005\S005.cpp(20,9): error C2065: lea: необъявленный идентификатор
+C:\Users\testt\OneDrive\Рабочий стол\S005-main\S005\S005.cpp(20,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "esi"
+C:\Users\testt\OneDrive\Рабочий стол\S005-main\S005\S005.cpp(20,13): error C2065: esi: необъявленный идентификатор
+C:\Users\testt\OneDrive\Рабочий стол\S005-main\S005\S005.cpp(21,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "push"
+C:\Users\testt\OneDrive\Рабочий стол\S005-main\S005\S005.cpp(21,9): error C2065: push: необъявленный идентификатор
+C:\Users\testt\OneDrive\Рабочий стол\S005-main\S005\S005.cpp(21,14): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "esi"
+C:\Users\testt\OneDrive\Рабочий стол\S005-main\S005\S005.cpp(21,14): error C2065: esi: необъявленный идентификатор
+C:\Users\testt\OneDrive\Рабочий стол\S005-main\S005\S005.cpp(22,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "lea"
+C:\Users\testt\OneDrive\Рабочий стол\S005-main\S005\S005.cpp(22,9): error C2065: lea: необъявленный идентификатор
+C:\Users\testt\OneDrive\Рабочий стол\S005-main\S005\S005.cpp(22,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ecx"
+C:\Users\testt\OneDrive\Рабочий стол\S005-main\S005\S005.cpp(22,13): error C2065: ecx: необъявленный идентификатор
+C:\Users\testt\OneDrive\Рабочий стол\S005-main\S005\S005.cpp(23,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "push"
+C:\Users\testt\OneDrive\Рабочий стол\S005-main\S005\S005.cpp(23,9): error C2065: push: необъявленный идентификатор
+C:\Users\testt\OneDrive\Рабочий стол\S005-main\S005\S005.cpp(23,14): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ecx"
+C:\Users\testt\OneDrive\Рабочий стол\S005-main\S005\S005.cpp(23,14): error C2065: ecx: необъявленный идентификатор
+C:\Users\testt\OneDrive\Рабочий стол\S005-main\S005\S005.cpp(24,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "call"
+C:\Users\testt\OneDrive\Рабочий стол\S005-main\S005\S005.cpp(24,9): error C2065: call: необъявленный идентификатор
+C:\Users\testt\OneDrive\Рабочий стол\S005-main\S005\S005.cpp(24,14): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "scanf"
+C:\Users\testt\OneDrive\Рабочий стол\S005-main\S005\S005.cpp(25,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "add"
+C:\Users\testt\OneDrive\Рабочий стол\S005-main\S005\S005.cpp(24,14): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\testt\OneDrive\Рабочий стол\S005-main\S005\S005.cpp(25,9): error C2065: add: необъявленный идентификатор
+C:\Users\testt\OneDrive\Рабочий стол\S005-main\S005\S005.cpp(25,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "esp"
+C:\Users\testt\OneDrive\Рабочий стол\S005-main\S005\S005.cpp(25,13): error C2065: esp: необъявленный идентификатор
+C:\Users\testt\OneDrive\Рабочий стол\S005-main\S005\S005.cpp(26,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+C:\Users\testt\OneDrive\Рабочий стол\S005-main\S005\S005.cpp(26,9): error C2065: mov: необъявленный идентификатор
+C:\Users\testt\OneDrive\Рабочий стол\S005-main\S005\S005.cpp(26,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ecx"
+C:\Users\testt\OneDrive\Рабочий стол\S005-main\S005\S005.cpp(26,13): error C2065: ecx: необъявленный идентификатор
+C:\Users\testt\OneDrive\Рабочий стол\S005-main\S005\S005.cpp(27,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "dec"
+C:\Users\testt\OneDrive\Рабочий стол\S005-main\S005\S005.cpp(27,9): error C2065: dec: необъявленный идентификатор
+C:\Users\testt\OneDrive\Рабочий стол\S005-main\S005\S005.cpp(27,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "esi"
+C:\Users\testt\OneDrive\Рабочий стол\S005-main\S005\S005.cpp(27,13): error C2065: esi: необъявленный идентификатор
+C:\Users\testt\OneDrive\Рабочий стол\S005-main\S005\S005.cpp(29,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "lea"
+C:\Users\testt\OneDrive\Рабочий стол\S005-main\S005\S005.cpp(29,9): error C2065: lea: необъявленный идентификатор
+C:\Users\testt\OneDrive\Рабочий стол\S005-main\S005\S005.cpp(29,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "esi"
+C:\Users\testt\OneDrive\Рабочий стол\S005-main\S005\S005.cpp(29,13): error C2065: esi: необъявленный идентификатор
+C:\Users\testt\OneDrive\Рабочий стол\S005-main\S005\S005.cpp(30,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "push"
+C:\Users\testt\OneDrive\Рабочий стол\S005-main\S005\S005.cpp(30,9): error C2065: push: необъявленный идентификатор
+C:\Users\testt\OneDrive\Рабочий стол\S005-main\S005\S005.cpp(30,14): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "esi"
+C:\Users\testt\OneDrive\Рабочий стол\S005-main\S005\S005.cpp(30,14): error C2065: esi: необъявленный идентификатор
+C:\Users\testt\OneDrive\Рабочий стол\S005-main\S005\S005.cpp(31,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "lea"
+C:\Users\testt\OneDrive\Рабочий стол\S005-main\S005\S005.cpp(31,9): error C2065: lea: необъявленный идентификатор
+C:\Users\testt\OneDrive\Рабочий стол\S005-main\S005\S005.cpp(31,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ecx"
+C:\Users\testt\OneDrive\Рабочий стол\S005-main\S005\S005.cpp(31,13): error C2065: ecx: необъявленный идентификатор
+C:\Users\testt\OneDrive\Рабочий стол\S005-main\S005\S005.cpp(32,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "push"
+C:\Users\testt\OneDrive\Рабочий стол\S005-main\S005\S005.cpp(32,9): error C2065: push: необъявленный идентификатор
+C:\Users\testt\OneDrive\Рабочий стол\S005-main\S005\S005.cpp(32,14): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ecx"
+C:\Users\testt\OneDrive\Рабочий стол\S005-main\S005\S005.cpp(32,14): error C2065: ecx: необъявленный идентификатор
+C:\Users\testt\OneDrive\Рабочий стол\S005-main\S005\S005.cpp(33,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "call"
+C:\Users\testt\OneDrive\Рабочий стол\S005-main\S005\S005.cpp(33,9): error C2065: call: необъявленный идентификатор
+C:\Users\testt\OneDrive\Рабочий стол\S005-main\S005\S005.cpp(33,14): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "scanf"
+C:\Users\testt\OneDrive\Рабочий стол\S005-main\S005\S005.cpp(34,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "add"
+C:\Users\testt\OneDrive\Рабочий стол\S005-main\S005\S005.cpp(33,14): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\testt\OneDrive\Рабочий стол\S005-main\S005\S005.cpp(34,9): error C2065: add: необъявленный идентификатор
+C:\Users\testt\OneDrive\Рабочий стол\S005-main\S005\S005.cpp(34,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "esp"
+C:\Users\testt\OneDrive\Рабочий стол\S005-main\S005\S005.cpp(34,13): error C2065: esp: необъявленный идентификатор
+C:\Users\testt\OneDrive\Рабочий стол\S005-main\S005\S005.cpp(35,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+C:\Users\testt\OneDrive\Рабочий стол\S005-main\S005\S005.cpp(35,9): error C2065: mov: необъявленный идентификатор
+C:\Users\testt\OneDrive\Рабочий стол\S005-main\S005\S005.cpp(35,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ecx"
+C:\Users\testt\OneDrive\Рабочий стол\S005-main\S005\S005.cpp(35,13): error C2065: ecx: необъявленный идентификатор
+C:\Users\testt\OneDrive\Рабочий стол\S005-main\S005\S005.cpp(36,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "dec"
+C:\Users\testt\OneDrive\Рабочий стол\S005-main\S005\S005.cpp(36,9): error C2065: dec: необъявленный идентификатор
+C:\Users\testt\OneDrive\Рабочий стол\S005-main\S005\S005.cpp(36,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "esi"
+C:\Users\testt\OneDrive\Рабочий стол\S005-main\S005\S005.cpp(36,13): error C2065: esi: необъявленный идентификатор
+C:\Users\testt\OneDrive\Рабочий стол\S005-main\S005\S005.cpp(38,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "lea"
+C:\Users\testt\OneDrive\Рабочий стол\S005-main\S005\S005.cpp(38,9): error C2065: lea: необъявленный идентификатор
+C:\Users\testt\OneDrive\Рабочий стол\S005-main\S005\S005.cpp(38,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ebx"
+C:\Users\testt\OneDrive\Рабочий стол\S005-main\S005\S005.cpp(38,13): error C2065: ebx: необъявленный идентификатор
+C:\Users\testt\OneDrive\Рабочий стол\S005-main\S005\S005.cpp(39,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "dec"
+C:\Users\testt\OneDrive\Рабочий стол\S005-main\S005\S005.cpp(39,9): error C2065: dec: необъявленный идентификатор
+C:\Users\testt\OneDrive\Рабочий стол\S005-main\S005\S005.cpp(39,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ebx"
+C:\Users\testt\OneDrive\Рабочий стол\S005-main\S005\S005.cpp(39,13): error C2065: ebx: необъявленный идентификатор
+C:\Users\testt\OneDrive\Рабочий стол\S005-main\S005\S005.cpp(40,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "lea"
+C:\Users\testt\OneDrive\Рабочий стол\S005-main\S005\S005.cpp(40,9): error C2065: lea: необъявленный идентификатор
+C:\Users\testt\OneDrive\Рабочий стол\S005-main\S005\S005.cpp(40,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ecx"
+C:\Users\testt\OneDrive\Рабочий стол\S005-main\S005\S005.cpp(40,13): error C2065: ecx: необъявленный идентификатор
+C:\Users\testt\OneDrive\Рабочий стол\S005-main\S005\S005.cpp(41,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "b1"
+C:\Users\testt\OneDrive\Рабочий стол\S005-main\S005\S005.cpp(42,9): error C2065: inc: необъявленный идентификатор
+C:\Users\testt\OneDrive\Рабочий стол\S005-main\S005\S005.cpp(42,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ebx"
+C:\Users\testt\OneDrive\Рабочий стол\S005-main\S005\S005.cpp(42,13): error C2065: ebx: необъявленный идентификатор
+C:\Users\testt\OneDrive\Рабочий стол\S005-main\S005\S005.cpp(43,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+C:\Users\testt\OneDrive\Рабочий стол\S005-main\S005\S005.cpp(43,13): error C2065: mov: необъявленный идентификатор
+C:\Users\testt\OneDrive\Рабочий стол\S005-main\S005\S005.cpp(43,17): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "al"
+C:\Users\testt\OneDrive\Рабочий стол\S005-main\S005\S005.cpp(43,17): error C2065: al: необъявленный идентификатор
+C:\Users\testt\OneDrive\Рабочий стол\S005-main\S005\S005.cpp(43,25): error C3481: ebx: передаваемая переменная в лямбда-выражении не найдена
+C:\Users\testt\OneDrive\Рабочий стол\S005-main\S005\S005.cpp(44,17): error C3260: "идентификатор": пропускаются непредвиденные токены перед телом лямбда-функции
+C:\Users\testt\OneDrive\Рабочий стол\S005-main\S005\S005.cpp(95,1): fatal error C1903: не удается восстановить после предыдущих ошибок; остановка компиляции
